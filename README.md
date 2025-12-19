@@ -1,2 +1,2 @@
 # C2FNet
-code and used dataset for papaer C2FNet
+code for paper C2FNet:C2FNET: COARSE-TO-FINE GRAINED INTEGRATION NETWORK FOR MULTIMODAL SENTIMENT ANALYSIS(submitted to ICASSP2026)
